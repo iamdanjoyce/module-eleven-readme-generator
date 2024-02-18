@@ -1,6 +1,6 @@
 # Module Eleven: Professional README Generator
 
-This weeks module was less of a challenge than previous weeks. I felt more comfortable working in terminal to get the deserved out out come.
+This weeks module was less of a challenge than previous weeks. I felt more comfortable working in terminal to get the deserved outcome.
 
 
 ## Resources
@@ -22,5 +22,16 @@ Heres is the link to the module as there isn't a deployed page for this week.
 
 https://github.com/iamdanjoyce/module-eleven-readme-generator
 
+## Video Link to Installation Instructions
+
+
+
 
 ## Screenshots of Application
+
+
+![Readme Generator](<assets/Screenshot 1.jpg>)
+
+![Readme Generator](<assets/Screenshot 1.jpg>)
+
+![Readme Generator](<assets/Screenshot 1.jpg>)
